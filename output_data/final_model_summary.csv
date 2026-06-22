@@ -1,0 +1,2 @@
+selected_tva_threshold,decision_threshold,test_accuracy,test_balanced_accuracy,test_auc,best_params
+2.4,0.07966453509080368,0.8221343873517787,0.8215656597890206,0.9052644535416989,"{'max_depth': 15, 'max_features': 'sqrt', 'min_samples_leaf': 5, 'min_samples_split': 8, 'n_estimators': 400}"
